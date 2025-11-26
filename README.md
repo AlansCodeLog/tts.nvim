@@ -36,6 +36,9 @@ yay -S python-edge-tts
 ```bash
 pip install piper-tts
 ```
+```bash
+yay -S piper-tts # this conflicts with the pacman piper package
+```
 Or install from source: [Piper Installation](https://github.com/OHF-Voice/piper1-gpl)
 
 ### OpenAI TTS
